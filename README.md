@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @ckmgareeb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ckmgareeb/ckmgareeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Exporter version: 2.80.0, Blender version: 2.91.0
 ========= Conversion from Blender to Babylon.js =========
 	Scene settings used :
